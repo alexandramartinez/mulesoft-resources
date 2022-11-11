@@ -36,3 +36,9 @@ Pages that are sometimes hard to find because they're either not talked about a 
 | Automation workshops | tbd | https://training.mulesoft.com/workshops/automation-workshops
 | Another Integration Blog in Medium | tbd | https://medium.com/another-integration-blog
 | DataWeave questions in StackOverflow | tbd | https://stackoverflow.com/tags/dataweave
+
+## Community resources
+
+Blogs, YouTube channels, and other sites where the MuleSoft community contributes and/or creates content.
+
+section tbd
