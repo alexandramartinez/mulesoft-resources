@@ -14,16 +14,16 @@ Pages located in the [mulesoft.com](https://www.mulesoft.com/) domain.
 
 | Page Name | Description | Link |
 | - | - | - |
-| Training and Certification | tbd | https://training.mulesoft.com/
-| Documentation | tbd | https://docs.mulesoft.com/general/
-| Blog | tbd | https://blogs.mulesoft.com/
-| Forums / Help Center | tbd | https://help.mulesoft.com/
-| Developer landing page | tbd | https://developer.mulesoft.com/
-| DataWeave landing page | tbd | https://dataweave.mulesoft.com/
-| Community landing page | tbd | https://www.mulesoft.com/community
-| Meetups | tbd | https://meetups.mulesoft.com/
-| MuleSoft Mentors | tbd | https://developer.mulesoft.com/community/mentors
-| MuleSoft Ambassadors | tbd | https://developer.mulesoft.com/community/ambassadors
+| Training and Certification | Official self-paced and/or instructor-led trainings | https://training.mulesoft.com/
+| Documentation | Official MuleSoft documentation | https://docs.mulesoft.com/general/
+| Blog | MuleSoft blog featuring product releases or client use-cases | https://blogs.mulesoft.com/
+| Forums / Help Center | Community-led forums to ask questions related to any of the MuleSoft products. MuleSoft employees monitor these questions too. | https://help.mulesoft.com/
+| Developers | Landing page for the developer tutorials | https://developer.mulesoft.com/
+| DataWeave | Landing page for the DataWeave language, including links to other relevant sites like Slack, StackOverflow, Playground, VSCode extension, etc. | https://dataweave.mulesoft.com/
+| Community | Landing page for the MuleSoft Community, including links to relevant sites like Ambassadors, Mentors, Meetups, etc. | https://www.mulesoft.com/community
+| Meetups | Official community meetups worldwide | https://meetups.mulesoft.com/
+| MuleSoft Mentors | Apply to become a mentor or nominate someone. You can also see here the list of current mentors. | https://developer.mulesoft.com/community/mentors
+| MuleSoft Ambassadors | See the full list of current and past MuleSoft Ambassadors and where to find them in socials. | https://developer.mulesoft.com/community/ambassadors
 
 
 ## "Hidden" pages
@@ -33,9 +33,9 @@ Pages that are sometimes hard to find because they're either not talked about a 
 
 | Page Name | Description | Link |
 | - | - | - |
-| Automation workshops | tbd | https://training.mulesoft.com/workshops/automation-workshops
-| Another Integration Blog in Medium | tbd | https://medium.com/another-integration-blog
-| DataWeave questions in StackOverflow | tbd | https://stackoverflow.com/tags/dataweave
+| Automation workshops | If you want to see how Composer or RPA look like, but you have no access to them yet, you can join these workshops to get a better feeling of the products | https://training.mulesoft.com/workshops/automation-workshops
+| Another Integration Blog in Medium | Led by the community team at MuleSoft, but all content is created by the actual community. Here you can find more technical content than in the official MuleSoft Blog | https://medium.com/another-integration-blog
+| DataWeave questions in StackOverflow | Apart from the MuleSoft forums (or the help center), the DataWeave team likes to keep any transformation-specific questions in StackOverflow because of its wider visibility. Use this channel if you have specific transformations you need help with. | https://stackoverflow.com/tags/dataweave
 
 ## Community resources
 
