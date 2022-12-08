@@ -41,4 +41,10 @@ Pages that are sometimes hard to find because they're either not talked about a 
 
 Blogs, YouTube channels, and other sites where the MuleSoft community contributes and/or creates content.
 
-section tbd
+### GitHub repositories
+
+| Author | Repo | Description
+| - | - | - |
+| [Clayton Flesher](https://github.com/claytonflesher) | [AdventOfCode2022](https://github.com/claytonflesher/AdventOfCode2022/tree/main/src/main/resources/dwl) | Solutions to the [Advent of Code](https://adventofcode.com/) 2022 puzzles using DataWeave.
+| [Ryan Hoegg](https://github.com/rhoegg) | [adventofcode2022](https://github.com/rhoegg/adventofcode2022) | Solutions to the [Advent of Code](https://adventofcode.com/) 2022 puzzles using DataWeave and other programming languages.
+| [Felix Schnabel](https://github.com/Shadow-Devil) | [aoc2022](https://github.com/Shadow-Devil/aoc2022) | Solutions to the [Advent of Code](https://adventofcode.com/) 2022 puzzles using DataWeave.
